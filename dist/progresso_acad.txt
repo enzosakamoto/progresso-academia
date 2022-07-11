@@ -1,0 +1,24 @@
+08/03/2022
+Massa Gorda: 15,20 %
+Massa Magra: 29,76 Kg
+Peso: 69,20 Kg
+IMC: 21,35 Kg/m^2
+
+25/04/2022
+Massa Gorda: 10,8 %
+Massa Magra: 35,6 Kg
+Peso: 70,2 Kg
+IMC: 21,7 Kg/m^2
+
+17/05/2022
+Massa Gorda: 9,6 %
+Massa Magra: 37,4 Kg
+Peso: 72,5 Kg
+IMC: 22,4 Kg/m^2
+
+05/07/2022
+Massa Gorda: 8,90 %
+Massa Magra: 38,5 Kg
+Peso: 74,00 Kg
+IMC: 22,80 Kg/m^2
+
