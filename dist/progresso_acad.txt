@@ -46,3 +46,14 @@ Massa Magra: 40,1 Kg
 Peso: 78,0 Kg
 IMC: 24,1 Kg/m^2
 
+28/10/2022
+Massa Gorda: 10,9 %
+Massa Magra: 40,8 Kg
+Peso: 79,3 Kg
+IMC: 24,5 Kg/m^2
+
+13/04/23 (Nova dieta)
+Massa Gorda: 10,1 %
+Massa Magra: 40,5 Kg
+Peso: 78,2 Kg
+IMC: 24,1 Kg/m^2
