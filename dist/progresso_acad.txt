@@ -57,3 +57,10 @@ Massa Gorda: 10,1 %
 Massa Magra: 40,5 Kg
 Peso: 78,2 Kg
 IMC: 24,1 Kg/m^2
+
+13/12/23 (MyFitnessPal)
+Massa Gorda: 5,5 %
+Massa Magra: 40,7 Kg
+Peso: 74,7 Kg
+IMC: 23,1 Kg/m^2
+
